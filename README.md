@@ -1,18 +1,25 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+**BloodGuard**
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+**Overview**
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+BloodGuard is an innovative health-tech project designed to empower cardiovascular patients by providing continuous, data-informed insights. By integrating wearable technology with a machine learning model and a comprehensive mobile application, BloodGuard enables users to monitor their daily health metrics and track their recovery journey with personalized, real-time data analysis.
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+**Key Features**
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+Wearable Health Monitoring: Continuous tracking of blood pressure, cholesterol levels, and other vital health metrics.
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+AI-Powered Insights: The machine learning model, trained on cardiovascular health data, identifies trends and provides personalized health insights.
 
-[LIVE PREVIEW](http://buckymaler.com/global)
+Real-Time Visualization: Users can view their daily progress through graphs and a color-coded calendar reflecting monthly health trends.
 
-## Misc:
+Healthcare Connectivity: The app facilitates direct communication between users and healthcare providers for proactive care.
 
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+
+Note: Our Kotlin App, and ML model are linked in different repositories
+
+**Contact**
+
+For any inquiries or support, please contact: tanushra@ualberta.ca
+
+We appreciate your interest in BloodGuard and welcome any feedback or collaboration ideas to enhance cardiovascular health monitoring.
+
